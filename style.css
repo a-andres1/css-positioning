@@ -1,6 +1,6 @@
 body{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 33.3%;
+    margin-right: 33.3%;
     line-height: 1.5;
     font-family: Georgia, 'Times New Roman', Times, serif;`
 }
@@ -10,7 +10,7 @@ body{
     padding: 4%;
     background-color: #eee;
     text-align: center;
-    margin: 0px;
+    margin: 0;
     top: 0px;
     left: 1px;
     z-index: 1;
@@ -49,4 +49,8 @@ body{
     width: 150px;
     bottom: -15px;`
     right: -60px;
+}
+
+section{
+    width: 600px;
 }
